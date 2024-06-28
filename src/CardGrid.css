@@ -1,0 +1,6 @@
+.card-grid {
+    display: flex;
+    gap: 16px;
+    justify-content: center; /* Центрирование элементов внутри grid */
+}
+  
